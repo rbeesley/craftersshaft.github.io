@@ -1,0 +1,98 @@
+{
+    "createdBy": "Redirector v3.2.1",
+    "createdAt": "2019-06-21T22:48:28.763Z",
+    "redirects": [
+        {
+            "description": "",
+            "exampleUrl": "www.infernoplus.com/royale/audio/music/castle.mp3",
+            "exampleResult": "craftersshaft.github.io/marioroyale/classicsmb/audio/music/castle.mp3",
+            "error": null,
+            "includePattern": "www.infernoplus.com/royale/audio/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "craftersshaft.github.io/marioroyale/classicsmb/audio/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "exampleResult": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/home/bkga.png",
+            "exampleResult": "http://web.archive.org/web/20190620212449im_/http://www.infernoplus.com/royale/img/home/bkga.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/home/bkga.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190620212449im_/http://www.infernoplus.com/royale/img/home/bkga.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "exampleResult": "http://web.archive.org/web/20190620032601im_/http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190620032601im_/http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "exampleResult": "http://web.archive.org/web/20190617221418im_/http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190617221418im_/http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        }
+    ]
+}
